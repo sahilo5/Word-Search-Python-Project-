@@ -1,1 +1,5 @@
-f
+pip install flask
+pip install requests
+pip install re
+pip install jinja
+pip install pytest
